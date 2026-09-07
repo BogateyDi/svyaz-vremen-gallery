@@ -1,2 +1,5 @@
-# svyaz-vremen-gallery
-Галерея БФ «Связь времен» — временный стенд
+# БФ «Связь времен» — галерея
+
+Стенд: https://bogateydi.github.io/svyaz-vremen-gallery/
+
+Если ссылка 404: Settings → Pages → Source = GitHub Actions.
